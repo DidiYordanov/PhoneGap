@@ -28,7 +28,7 @@
     <keywords>cordova,appsflyer</keywords>
     <repo>https://github.com/AppsFlyerSDK/PhoneGap.git</repo>
     <engines>
-        <engine name="cordova" version=">=4.1.0"/>
+        <engine name="cordova" version=">=4.3.0"/>
     </engines>
 
     <!-- android -->
